@@ -11,7 +11,7 @@ This framework is mainly for Object Detection and Tracking
 - Flexibility
 
 ### Second Version
-- C to verilog  
+- Embedded deep learning  
 - TPU 
 
 Most code is from excellent darknet.
